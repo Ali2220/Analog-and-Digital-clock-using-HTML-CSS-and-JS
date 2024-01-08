@@ -1,0 +1,29 @@
+clock is 360 deg and have 12 hours
+for 1 hour it will be 360/12 = 30 deg
+60 minutes = 1 hour = 30 deg of toation
+1 minute = 1/2 deg = 0.5 deg
+m minutes = m/2 deg of rotation
+
+formula 1: --> For Hour
+--------------------------
+= 30h + m/2 
+--------------------------
+
+
+60 min = 360 deg
+1 min = 360/60 = 6 deg of rotation
+
+formula 2: --> For minutes
+--------------------------
+m mins = 6m deg
+--------------------------
+
+
+60 seconds = 360 deg
+1 seconds = 6 deg
+
+
+Formula 3 --> For seconds
+--------------------------
+s seconds = 6s deg
+--------------------------
